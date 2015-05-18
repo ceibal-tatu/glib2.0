@@ -1,8 +1,8 @@
-glib2.0 (2.32.4-0ubuntu2-tatu1) tatu; urgency=medium
+glib2.0 (2.32.4-0ubuntu1+tatu1) tatu; urgency=medium
 
   * Repack for tatu.
 
- -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 17 May 2015 22:11:42 -0300
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 17 May 2015 22:13:35 -0300
 
 glib2.0 (2.32.4-0ubuntu1) precise; urgency=low
 
