@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+
+#DEBHELPER#
+
+if [ -d /etc/etc/bash_completion.d ]; then
+    rmdir --ignore-fail-on-non-empty /etc/etc/bash_completion.d
+    rmdir --ignore-fail-on-non-empty /etc/etc/
+fi
+
